@@ -1,0 +1,11 @@
+{
+  "name": "neutralinojs-react-tailwind-template",
+  "version": "1.0.0",
+  "description": "An empty Neutralinojs app with Vite + React + Typescript + SWC + TailwindCSS + Prettier installed",
+  "scripts": {
+    "dev": "neu run",
+    "devi": "neu run -- --window-enable-inspector",
+    "build": "neu build"
+  },
+  "license": "MIT"
+}
